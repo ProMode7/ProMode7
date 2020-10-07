@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Pramod Patel
+#### Developer by profession. Geek by passion.
+### I've 5+ Years of native android development.
 
-<!--
-**ProMode7/ProMode7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Android / Kotlin / Java
 
-Here are some ideas to get you started:
+- 💻  I’m currently learning Jetpack Compose
+- 👯  I’m looking to collaborate on Android projects 
+- 💬  Ask me about Android and Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProMode7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pramodpatel7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/play_err_2.0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='40'>](https://stackoverflow.com/users/6316670/pro-mode/)  
+
+![Profile views](https://gpvc.arturio.dev/promode7)  
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=promode7&column=7"/>
+</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=promode7&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promode7&layout=compact" />
+</div>
