@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pramod Patel
 #### Developer by profession. Geek by passion.
-### I've 6+ Years of native android development.
+### I've 7 Years of native android development.
 
 **Languages and Tools:**  
 
@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 
-- 💻  I’m currently working on Telecommunication protocols, SIP and VoIP based technologies.
+- 💻  I’m currently working on Android AOSP, Telecommunication protocols, SIP and VoIP based technologies.
 - 👓  I’m learning Flutter with Dart, Android(Forever learning process)
 - 👯  I’m looking to collaborate on Android projects 
 - 💬  Ask me about Android - Java and Kotlin, and now flutter also.
